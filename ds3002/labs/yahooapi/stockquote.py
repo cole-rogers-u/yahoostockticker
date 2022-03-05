@@ -1,7 +1,7 @@
 import sys
 import requests
 import json
-# Cole Rogers cbry9yef
+# Cole Rogers cbr9yef
 # read in stocks as command line arguments
 stocks = sys.argv[1:]
 
